@@ -1,3 +1,4 @@
+# encoding: utf-8
 # rubocop:disable all
 module Transbank
   module Webpay
